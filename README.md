@@ -19,7 +19,7 @@ Este proyecto utiliza las siguientes tecnologías
 - Fontawsome 6
 - Google Font
 
-###DevOps
+### DevOps
 - VS Code
 - Git
 - GitHub
